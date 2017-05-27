@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/OTAppTests.iml" filepath="$PROJECT_DIR$/.idea/modules/OTAppTests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/OTAppTests_main.iml" filepath="$PROJECT_DIR$/.idea/modules/OTAppTests_main.iml" group="OTAppTests" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/OTAppTests_test.iml" filepath="$PROJECT_DIR$/.idea/modules/OTAppTests_test.iml" group="OTAppTests" />
+    </modules>
+  </component>
+</project>

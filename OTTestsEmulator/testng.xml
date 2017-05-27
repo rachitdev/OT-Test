@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="OnlineTyari Android App Tests" >
+  <test name="All Languages Test" preserve-order="true" verbose="2">
+    <classes>
+      <class name="com.onlinetyari.AppTests.OTenglishtest"/>
+      <class name="com.onlinetyari.AppTests.OThinditest"/>
+      <class name="com.onlinetyari.AppTests.OTmarathitest"/>
+     </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

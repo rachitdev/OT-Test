@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="OnlineTyari Android App Tests">
+	<test name="January 2016 Tests of OT Android App" preserve-order="true" verbose="2">
+		<classes>
+			<class name="com.onlinetyari.AppTests.LoginScreen" />
+			<class name="com.onlinetyari.AppTests.LanguageSelection" />
+			<class name="com.onlinetyari.AppTests.SelectExams" />
+			<class name="com.onlinetyari.AppTests.LandingPage" />
+			<class name="com.onlinetyari.AppTests.NavigationDrawer" />
+			<class name="com.onlinetyari.AppTests.CurrentAffairs" />
+			<class name="com.onlinetyari.AppTests.NewsArticles" />
+			<class name="com.onlinetyari.AppTests.JobAlerts" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
